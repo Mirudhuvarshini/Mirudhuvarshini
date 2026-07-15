@@ -1,5 +1,5 @@
 # OBJECTIVE
-Aspiring **Software Engineer** with a strong foundation in problem-solving and solution-oriented thinking. Adaptable, committed, and passionate about building meaningful projects that create real-world impact. Continuously learning and exploring new tools and technologies to expand technical depth and practical knowledge. A proactive individual and confident communicator who values collaboration, innovation, and continuous growth.</br>
+**Software Developer** with a strong foundation in problem-solving and solution-oriented thinking. Adaptable, committed, and passionate about building meaningful projects that create real-world impact. Continuously learning and exploring new tools and technologies to expand technical depth and practical knowledge. A proactive individual and confident communicator who values collaboration, innovation, and continuous growth.</br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirudhu-varshini) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Mirudhuvarshini) 
